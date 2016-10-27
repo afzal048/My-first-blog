@@ -5,12 +5,13 @@ h1 a {
 p
 {font-family: "Times New Roman", Times, serif;
 line-height: 170%;
-
+font-size:150%;
   
   
  
 }
-body {
+body {margin-left: 0px;
+    margin-right: 0px;
     padding-left: 15px
 padding-right: 15px;
     height:100%;
